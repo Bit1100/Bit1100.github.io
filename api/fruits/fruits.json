@@ -1,0 +1,45 @@
+{
+    "fruits": [{
+            "id": 1,
+            "image": "avacado.jpg",
+            "name": "Avocado",
+            "stars": 4,
+            "price": 250
+        },
+        {
+            "id": 2,
+            "image": "apple.jpg",
+            "name": "Apple",
+            "stars": 5,
+            "price": 150
+        },
+        {
+            "id": 3,
+            "image": "cherry.jpg",
+            "name": "Cherry",
+            "stars": 3,
+            "price": 400
+        },
+        {
+            "id": 4,
+            "image": "pineapple.jpg",
+            "name": "Pineapple",
+            "stars": 4,
+            "price": 350
+        },
+        {
+            "id": 5,
+            "image": "banana.jpg",
+            "name": "Banana",
+            "stars": 3,
+            "price": 100
+        },
+        {
+            "id": 6,
+            "image": "berry.jpg",
+            "name": "Berry",
+            "stars": 5,
+            "price": 500
+        }
+    ]
+}

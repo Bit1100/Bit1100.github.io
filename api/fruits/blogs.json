@@ -1,0 +1,21 @@
+{
+    "blogs": [{
+            "id": 1111,
+            "image": "cherry.jpg",
+            "datePublished": "20 September,2022",
+            "author": "Fresh Fruits",
+            "comments": 34,
+            "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur fugiat ab architecto debitis sequi soluta qui fuga earum ex cumqueaut, totam itaque eum sint odio tempore quaerat molestias vitaerem ullam eaque voluptatum!Id voluptates odio voluptatem hicexcepturi."
+        },
+        {
+            "id": 2222,
+            "image": "banana.jpg",
+            "datePublished": "10 September,2022",
+            "author": "Fresh Fruits",
+            "comments": 20,
+            "title": "Lorem ipsum dolor sit amet consectetur",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur fugiat ab eum sint odtempore quaerat molestias vitaerem ullam eaque voluptatum!Id voluptates eum eaque voluptatum!Id voluptates eum sintodio tempore quaerat odio voluptatem hicexcepturi."
+        }
+    ]
+}

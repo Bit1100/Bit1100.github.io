@@ -1,0 +1,21 @@
+{
+    "services": [{
+            "id": 11,
+            "image": "truck.png",
+            "title": "Free Home Delivery",
+            "description": "we don't charge even a single penny for the delivery."
+        },
+        {
+            "id": 22,
+            "image": "case.png",
+            "title": "1 Day Return Services",
+            "description": "You can return the product in a day in case you don't like it."
+        },
+        {
+            "id": 33,
+            "image": "rupee.png",
+            "title": "Money Back Grant",
+            "description": "We will refund your money if you don't like the product."
+        }
+    ]
+}
